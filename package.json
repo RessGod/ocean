@@ -2,7 +2,7 @@
   "name": "ocean",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html --open",
     "build": "parcel build src/index.html"
