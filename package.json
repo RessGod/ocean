@@ -1,0 +1,22 @@
+{
+  "name": "ocean",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel --open",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.9.2",
+    "parcel": "^2.9.2"
+  },
+  "dependencies": {
+    "@barba/core": "^2.9.7",
+    "gsap": "^3.12.1",
+    "three": "^0.153.0"
+  }
+}
